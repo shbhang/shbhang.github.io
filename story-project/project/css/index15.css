@@ -1,0 +1,89 @@
+/* CSS Document */
+div#myDiv {
+	top: 26%;
+	position:fixed;
+	left: 8%;
+	font-size: 800px;
+	color:#2577FB;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Safari */
+    transform: rotate(0deg); /* Standard syntax */
+	
+}
+#one {
+	text-align:center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size:15px;
+	position:fixed;
+	top:25%;
+	left:47%;
+}
+
+#two {
+	text-align:center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size:15px;
+	position:fixed;
+	top:29%;
+	left:43%;
+}
+
+#three {
+	text-align:center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size:15px;
+	position:fixed;
+	top:36.5%;
+	left:43%;
+}
+
+#four {
+	text-align:center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size:15px;
+	position:fixed;
+	top:48%;
+	left:46%;
+}
+
+
+#five{
+	top:52.5%;
+	left:48.7%;
+	position:fixed;
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	}
+	
+
+#six{
+	top:58%;
+	left:48.8%;
+	position:fixed;
+	font-size: 13px;
+	text-align: center;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	}
+	
+	/*Defaults to blue, before clicking*/	
+a:link {
+	color: #C8C8C8;
+	text-decoration: none;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	}	
+
+/*Defaults to purple, after clicking*/	
+a:visited {
+	color: #C8C8C8;
+	}
+
+/*Mouse hovers, before clicking*/
+a:hover {
+	text-decoration: none;
+	}
+/*Mouse clicks on the link*/	
+a:active {
+	color: black;
+	}	

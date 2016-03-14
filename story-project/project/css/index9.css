@@ -1,0 +1,52 @@
+/* CSS Document */
+#one {
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	}	
+	
+#two {
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	}
+	
+#three {
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	}
+#four {
+	font-size: 20px;
+	text-align: center;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-decoration: underline;
+	}
+	
+	
+#seven {
+	font-size: 13px;
+	text-align: center;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	}
+	/*Defaults to blue, before clicking*/	
+a:link {
+	color: #C8C8C8;
+	text-decoration: none;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	}	
+
+/*Defaults to purple, after clicking*/	
+a:visited {
+	color: #C8C8C8;
+	}
+
+/*Mouse hovers, before clicking*/
+a:hover {
+	text-decoration: none;
+	}
+/*Mouse clicks on the link*/	
+a:active {
+	color: black;
+	}	
+	

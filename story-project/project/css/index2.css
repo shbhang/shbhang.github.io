@@ -1,0 +1,77 @@
+/* CSS Document */
+div#myDiv {
+	float:left;
+	top: -16%;
+	position:fixed;
+	left: 4%;
+	font-size: 1000px;
+	color: rgba(196,196,196,1.00);
+    -ms-transform: rotate(-20deg); /* IE 9 */
+    -webkit-transform: rotate(-20deg); /* Safari */
+    transform: rotate(-20deg); /* Standard syntax */
+}
+
+div#t1 {
+	float:right;
+	top: -3%;
+	position:fixed;
+	right: 4%;
+	font-size: 1000px;
+	color:rgba(235,235,235,1.00);
+    -ms-transform: rotate(10deg); /* IE 9 */
+    -webkit-transform: rotate(10deg); /* Safari */
+    transform: rotate(10deg); /* Standard syntax */
+}
+
+
+#one {
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	top: 30%;
+	right: 40%;
+	position: fixed; 
+
+	}	
+	
+#two {
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	top: 46%;
+	right: 42.5%;
+	position: fixed; 
+	
+	}
+	
+#three {
+	font-size: 13px;
+	text-align: center;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	top: 52%;
+	right: 48%;
+	position: fixed; 
+
+	}
+	
+/*Defaults to blue, before clicking*/	
+a:link {
+	color: #C8C8C8;
+	text-decoration: none;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	}	
+
+/*Defaults to purple, after clicking*/	
+a:visited {
+	color: #C8C8C8;
+	}
+
+/*Mouse hovers, before clicking*/
+a:hover {
+	text-decoration: none;
+	}
+/*Mouse clicks on the link*/	
+a:active {
+	color: black;
+	}	
+	

@@ -1,0 +1,67 @@
+/* CSS Document */
+div#myDiv {
+	float: center; 
+	font-size: 350px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	color:rgba(230,0,3,1.00);
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Safari */
+    transform: rotate(0deg); /* Standard syntax */
+}
+#one {
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	position:fixed;
+	top: 13%;
+	right: 44.8%;
+	}	
+	
+#two {
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	top: 20%;
+	right: 45.5%;
+	position:fixed;
+	}
+	
+#three {
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	top: 29%;
+	right: 45.6%;
+	position:fixed;
+	}
+	
+#four {
+	font-size: 13px;
+	text-align: center;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;;
+	top: 42%;
+	right: 51%;
+	position:fixed;
+	}
+	
+/*Defaults to blue, before clicking*/	
+a:link {
+	color: #C8C8C8;
+	text-decoration: none;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	}	
+
+/*Defaults to purple, after clicking*/	
+a:visited {
+	color: #C8C8C8;
+	}
+
+/*Mouse hovers, before clicking*/
+a:hover {
+	text-decoration: none;
+	}
+/*Mouse clicks on the link*/	
+a:active {
+	color: black;
+	}	
+	

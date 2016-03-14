@@ -1,0 +1,111 @@
+/* CSS Document */
+
+
+#one {
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	position:fixed;
+	top: 20%;
+	right: 43%;
+	}	
+	
+#two {
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	top: 29%;
+	right: 48%;
+	position:fixed;
+	}
+	
+#three {
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	top: 33%;
+	right: 43%;
+	position:fixed;
+	}
+	
+#four {
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	top: 41%;
+	right: 44.5%;
+	position:fixed;
+	}
+	
+#five {
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	top: 51%;
+	right: 47.5%;
+	position:fixed;
+	}
+
+#six {
+	font-size: 15px;
+	text-align: center;
+	position:fixed;
+	top: 56%;
+	right: 40.5%;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	}
+	
+#seven {
+	font-size: 15px;
+	text-align: center;
+	position: fixed;
+	top: 64%;
+	right: 43.5%;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	}
+	
+#eight {
+	font-size: 13px;
+	text-align: center;
+	position:fixed; 
+	top: 74%;
+	right: 47%;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	}
+	
+#america {
+	top:15%;
+	left: 15%;
+	position:fixed;
+	font-size: 1000%;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Safari */
+    transform: rotate(0deg); /* Standard syntax */
+    background: -webkit-linear-gradient(left, #EA0508, #0038B2);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+}
+
+/*Defaults to blue, before clicking*/	
+a:link {
+	color: #C8C8C8;
+	text-decoration: none;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	}	
+
+/*Defaults to purple, after clicking*/	
+a:visited {
+	color: #C8C8C8;
+	}
+
+/*Mouse hovers, before clicking*/
+a:hover {
+	text-decoration: none;
+	}
+/*Mouse clicks on the link*/	
+a:active {
+	color: black;
+	}	
+	

@@ -1,0 +1,83 @@
+#one {
+	top:25%;
+	left:44%;
+	position:fixed;
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	background: -webkit-linear-gradient(left, #EA0508, #FF8200);
+	background: linear-gradient(top, #FF0004, #FD9837);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+	
+	
+#two {
+	top:33%;
+	left:42.9%;
+	position:fixed;
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	background: -webkit-linear-gradient(right, #157400, #F4D700);
+	background: linear-gradient(top, #058F00, #FFF300);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+	
+#three {
+	top:41%;
+	left:43%;
+	position:fixed;
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	background: -webkit-linear-gradient(left, #88A5E2, #0028AD);
+	background: linear-gradient(top, #35C9FF, #00127C);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+	
+#four {
+	top:49%;
+	left:45%;
+	position:fixed;
+	font-size: 15px;
+	text-align: center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	background: -webkit-linear-gradient(left, #5300F0, #C57EF8 );
+	background: linear-gradient(top,#4F0091, #C381F3);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	}
+	
+#five{
+	top:55%;
+	left:49%;
+	position:fixed;
+	font-size: 13px;
+	text-align: center;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	}
+	
+	/*Defaults to blue, before clicking*/	
+a:link {
+	color: #C8C8C8;
+	text-decoration: none;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	}	
+
+/*Defaults to purple, after clicking*/	
+a:visited {
+	color: #C8C8C8;
+	}
+
+/*Mouse hovers, before clicking*/
+a:hover {
+	text-decoration: none;
+	}
+/*Mouse clicks on the link*/	
+a:active {
+	color: black;
+	}	
+	
